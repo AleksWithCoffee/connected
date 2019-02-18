@@ -1,12 +1,12 @@
 
-"Connected" - Java Desktop Chat Room Application using javafx(server).
+#"Connected" - Java Desktop Chat Room Application using javafx(server).
 
-Configurations:
+#Configurations:
 
 First, create database(MySQL) and table "users" using 'databaseScript' file.
 All parameters are listed in 'application.property' file in resources folder, make sure your configurations are appropriate to your needs.
 
-Executing:
+#Executing:
 
 Via the main class using IDE or by running artifact(jar file).
 To create an executable jar use 'mvn clean install' command.
